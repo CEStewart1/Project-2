@@ -9,22 +9,16 @@
 ---
 
 ## Contributions
-As the sole technical writer for the Hadron project, I was responsible for copyediting Hadron’s legacy documents, which included maintaining consistency across the documentation and establishing clear quality standards. During the copyediting process, I used Markdown markup language and stored all documentation in a Git repository. The final rendered files are now published and accessible on Codeberg.org.  
+As the technical writer, I led the restructuring of the user guide to enhance the efficiency of the device setup process. This involved conducting user research to identify which sections of the original documentation were essential. I reorganized the content into a logical, user-centered flow and revised the language to ensure accessibility for a non-technical audience.
 
-One key deliverable included copyediting the **Developer Guide** shown above. The *Developer Guide* was designed to help new contributors effectively engage with the project. This guide provides developers with a clear outline of the contributor workflow, project file structure, issue reporting, licensing rules, and more.  
+Additionally, I redesigned the guide into a tri-fold Quickstart format, incorporating visuals, icons, and instructional callouts to reduce reliance on text. The finalized guide was produced in both print and digital formats, ensuring convenient access for parents across various platforms. 
 
 ---
 
 ## Challenges
-Before my contributions, the project’s legacy documentation suffered from inconsistent language, a lack of contributor-friendly guidance, and writing inconsistencies. In addition, I overcame content-related challenges while working with **Codeberg.com**, as the platform is not widely used in the industry.  
+The challenges that arose during this project included the need to effectively condense the original guide. The initial version was excessively lengthy and lacked approachable language, which required several iterations to identify and refine the components most essential for supporting device setup.
 
 ---
 
 ## Results
-By standardizing the language and improving clarity, I transformed the documentation into a reliable resource that actively supports the developer community. The improved *Developer Guide*:  
-
-- Reduced onboarding time  
-- Minimized errors caused by unclear instructions  
-- Established a professional standard for future documentation  
-
-In short, I helped turn the documentation from a barrier into an asset — saving the team time, increasing contributor confidence, and setting the project up for long-term success.  
+The Quickstart guide reduced setup time, significantly cut down on parent support requestsl, and gave families the confidence to manage devices independently. By eliminating setup as a barrier, students were able to start assignments faster and stay focused on learning. 
