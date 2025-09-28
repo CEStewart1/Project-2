@@ -1,6 +1,6 @@
-# Edited Open-source Documentation
+# Developed Quickstart Guide
 
-## Source Code vs. Codeberg Rendering
+## 53-Page User Guide vs. Tri-fold Quickstart Guide
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
