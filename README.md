@@ -1,6 +1,6 @@
 # Developed Quickstart Guide
 
-## 53-Page User Guide vs. Tri-fold Quickstart Guide
+## 52-Page User Guide vs. Tri-fold Quickstart Guide
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
