@@ -4,7 +4,7 @@
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
-| ![Source Code](Surface.png) | ![Codeberg Rendering](Surface2-2.png) |
+| ![Source Code](Surface.png) | ![Codeberg Rendering](Surface2.jpg) |
 
 ---
 
