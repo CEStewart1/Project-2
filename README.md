@@ -2,6 +2,8 @@
 
 ## 52-Page User Guide vs. Tri-fold Quickstart Guide
 
+## For more details, visit my portfolio https://stewartecleo.wixsite.com/portfolio
+
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
 | ![Source Code](Surface1.png) | ![Codeberg Rendering](Surface2.jpg) |
